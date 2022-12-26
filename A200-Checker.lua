@@ -5,16 +5,6 @@ local amogus = true
 
 while amogus == true do
     wait(.25)
-    if workspace.monster.hunt.Value == true then
-	    OrionLib:MakeNotification({
-            Name = "Hide!",
-            Content = "A-60 has spawned, go to a locker!",
-            Time = 3
-        })
-        wait(3)
-    end
-
-    wait(.25)
     if workspace.monster2.hunt.Value == true then
 	    OrionLib:MakeNotification({
             Name = "Hide",
