@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+-- THIS SCRIPT ALSO NOTIFIES WHEN A-60 SPAWNS. DO NOT USE THIS SCRIPT IF YOU ONLY WANT A-200 NOTIFICATION
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local amogus = true
