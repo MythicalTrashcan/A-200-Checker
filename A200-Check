@@ -1,3 +1,3 @@
 -- A-200 Checker by MythicalTrashcan
 
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/MythicalTrashcan/A-200-Checker/main/Raw%20Code/A200-Checker.lua')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/MythicalTrashcan/A-200-Checker/main/Raw%20Code/A200-Check.lua')))()
